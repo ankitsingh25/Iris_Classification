@@ -11,3 +11,15 @@ Both the classifiers do excellent and the classification details are included in
 
 Detailed analysis is pretty much restricted by the size of the dataset.However, it gives pretty
 good idea of the implementation, working and accuracy of the models. 
+
+"""
+Future Work:
+
+This dataset being very intuitive is an ideal subject for 
+testing and understanding clustering algorithms.
+TO APPLY:
+K- means
+Heirarchical
+DBSCAN
+
+"""
